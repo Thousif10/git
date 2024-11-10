@@ -6,4 +6,6 @@ echo "Jenkins pipeline..."
 echo "Build Success..."
 
 
-echo "weboohk triggered"
+echo "weboohk triggered by github..."
+
+echo "notification set..."
